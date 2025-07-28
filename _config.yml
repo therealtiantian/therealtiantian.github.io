@@ -1,6 +1,6 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: Tian Tian
+author: 田甜
+subtitle: Something mildly good.
 
 url: "https://therealtiantian.github.io"
 baseurl: ""
@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+   absolute-link: "https://drive.google.com/file/d/1uJB45qBAFwmYlW2sQMprJ353Pr0vpyQq/view?usp=share_link"
