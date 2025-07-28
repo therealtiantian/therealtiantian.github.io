@@ -31,8 +31,8 @@ I also have a blogging account "Karottenfruchtladen" on Wechat Public Platform, 
 
 ### Publications
 
-1. [Magazines](/assets/portfolio.pdf)
-2. *[Poetry Lab Shanghai](https://www.poetrylabshanghai.com/post/summer25)*, Summer ’25 Issue 
+1. [*GQ*, *Dazed*, *Vogue*, *Tatler*, *Modern Weekly*, *RADII*, *Man About Town*, etc](/assets/portfolio.pdf): on music, fashion, culture, society, etc
+2. [*Poetry Lab Shanghai*](https://www.poetrylabshanghai.com/post/summer25) Summer ’25 Issue, "Song of a New Century", Written in Chinese, translated by PLS
 
 ### Contact Me
 
