@@ -31,7 +31,7 @@ I also have a blogging account "Karottenfruchtladen" on Wechat Public Platform, 
 
 ### Publications
 
-1. [Magazines](https://drive.google.com/file/d/1uJB45qBAFwmYlW2sQMprJ353Pr0vpyQq/view?usp=share_link)
+1. [Magazines](/assets/portfolio.pdf)
 2. *[Poetry Lab Shanghai](https://www.poetrylabshanghai.com/post/summer25)*, Summer ’25 Issue 
 
 ### Contact Me
