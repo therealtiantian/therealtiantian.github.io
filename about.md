@@ -14,13 +14,13 @@ I also have a blogging account "Karottenfruchtladen" on Wechat Public Platform, 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
   <figure style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/performance1.jpg" alt="Performance 1"
+    <img src="{{ site.baseurl }}/assets/performance1.JPG" alt="Performance 1"
          style="height: 300px; width: auto; object-fit: cover; border-radius: 8px;">
     <figcaption style="font-style: italic;">Chopin Waltz — Shanghai, 2021</figcaption>
   </figure>
 
   <figure style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/performance2.jpg" alt="Performance 2"
+    <img src="{{ site.baseurl }}/assets/performance2.JPG" alt="Performance 2"
          style="height: 300px; width: auto; object-fit: cover; border-radius: 8px;">
     <figcaption style="font-style: italic;">John Cage — Shanghai, 2022</figcaption>
   </figure>
