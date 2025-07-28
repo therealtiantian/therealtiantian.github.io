@@ -21,4 +21,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://drive.google.com/file/d/1uJB45qBAFwmYlW2sQMprJ353Pr0vpyQq/view?usp=share_link"
+   link: "/assets/portfolio.pdf"
