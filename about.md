@@ -30,8 +30,10 @@ I also have a blogging account "Karottenfruchtladen" on Wechat Public Platform, 
 
 
 ### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+
+1. [Magazines](https://drive.google.com/file/d/1uJB45qBAFwmYlW2sQMprJ353Pr0vpyQq/view?usp=share_link)
+2. *[Poetry Lab Shanghai](https://www.poetrylabshanghai.com/post/summer25)*, Summer ’25 Issue 
 
 ### Contact Me
-No thanks, I have enough problems of my own to deal with.
+therealtiantian@gmail.com
+WeChat: pseudovilla
