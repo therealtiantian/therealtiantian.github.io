@@ -20,7 +20,7 @@ I also have a blogging account "Karottenfruchtladen" on Wechat Public Platform, 
 
   <figure style="flex: 1; min-width: 200px; text-align: center;">
     <img src="{{ site.baseurl }}/assets/performance2.jpg" alt="Performance 2" style="width: 100%; border-radius: 8px;">
-    <figcaption style="font-style: italic;">John Cage — Shanghai, 2021</figcaption>
+    <figcaption style="font-style: italic;">John Cage — Shanghai, 2022</figcaption>
   </figure>
 
 </div>
