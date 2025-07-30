@@ -20,9 +20,9 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Film Reviews"
+ - name: "IMDB"
    absolute-link: "https://www.imdb.com/user/ur133207107/reviews/?ref_=up_ururv_sm"   
- - name: "Magazine Works"
+ - name: "Portfolio"
    link: "/assets/portfolio.pdf"
  - name: "Resume"
    link: "/assets/cv.pdf"
