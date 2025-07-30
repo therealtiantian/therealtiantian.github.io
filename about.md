@@ -12,5 +12,3 @@ I also have a blogging account "Karottenfruchtladen" on Wechat Public Platform, 
 ### Contact Me
 
 therealtiantian@gmail.com
-
-WeChat: pseudovilla
