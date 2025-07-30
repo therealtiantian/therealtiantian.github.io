@@ -1,0 +1,15 @@
+---
+layout: post
+title: The Active and the Pensive
+subtitle: 
+tags: [ramblings]
+---
+I’ve been fidgeting with coding a lot, which is unexpected, considering that I applied for this master’s program aiming to enhace my writting skills. But I started to get tired of rhetorics at some point, especially when I have a professional responsibility to read novels, poems and philosophy essays. But I don’t mean I don’t like them anymore, but the idea of “thinking as a way of living” makes me uncomfortable. I guess there is a part in me that is very Chinese, who values secular life and the sanctity of action. 
+
+Coding in its nature is heuristic, which makes it a far cry from the principles in humanities. Studying the latter is mostly accumulative, meaning there are constant reading and reflecting, and even though reflection is the process of correcting previous thoughts, there are not a lot of tangible mistakes to learn from. In this way, the “mistakes” one makes in studying humanities are all a bit vague and ineffable. Without clear feedback on mistakes, a humanities scholar at most is able to fine-tune their ideas, instead of drastically changing their point of views. But computer science is a subject known for certainty (it is a formal science), which means it is built with a form, and the more one works on it, the more structured it is. Mistakes are treated as absolute, so are structures. Computers are built with boolean questions, yes or no, 1 or 0. I like the idea of computer science, it gives me a clear sense of right and wrong on matters that do not concern righteousness. 
+
+If one spend all her/his life ruminating, there will not be time for her/him to do anything. But this is just an absolute case, because most people stand somewhere on the spectrum between action and reflection. Currently I try to move a bit further from the latter, after two years of academic life in humanities, I think I’ve done my fair share of thinking. 
+
+This will be the first article on my new website hosted by Github. I still like the idea of writing on a public platform. I like reading others’ blogs too, and the casual way of writing often spark their unexpected but valuable ideas. People tend to learn from each other with talking and reading each others’ stuff. I learned much more from my friends/acquaintances than formal school and academic training. 
+
+I recently received the grading of my paper on John Milton, which gave me a chance to read through it again. I wrote about the tension between the “active” and the “pensive” there as well, which was depicted in Miltons *L’Allegro* and *Il Penseroso*. This is an unresolvable tension that persists through everybody’s lifetime, and I am happy to be studying the methods of both fields with a double degree. 
