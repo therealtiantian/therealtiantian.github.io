@@ -1,6 +1,6 @@
 ---
 layout: post
-title: word2vec
+title: Word2vec
 subtitle: 
 tags: [tech]
 ---
