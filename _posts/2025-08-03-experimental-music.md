@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experimental Music: a culture of dissidence
+title: Experimental Music, a culture of dissidence
 subtitle: 
 tags: [music]
 ---
