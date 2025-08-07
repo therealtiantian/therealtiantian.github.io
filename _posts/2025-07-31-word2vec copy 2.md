@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Word2vec
+title: Word2vec for Diachronic Semantics
 subtitle: 
-tags: [tech]
+tags: [NLP]
 ---
 I am trying to find some tools for a lexical semantic change analysis, and bumped into this word2vec thingy that looks bit fun. I am looking at its instructions and hope to be able to run some code in a couple days. 
 

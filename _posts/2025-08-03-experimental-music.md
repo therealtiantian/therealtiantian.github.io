@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Experimental Music
+title: the Idea of Experimental Music
 subtitle: 
-tags: [Music]
+tags: [music]
 ---
 Music used to be created for a joint sensation, stimulating auditors’ similar response and bind them together with a consensus. But after the modernists, the musicians started to deviate from that ambition, until deconstructed it and finally replaced it with works that sanctify unique experience of every one of the listeners/experiencers. Shortly, the experimental musicians try to utilize and elevate the ordinary, the weird and the ugly, interrogating the validity of an established standard of pleasure. 
 
