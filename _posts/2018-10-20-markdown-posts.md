@@ -5,7 +5,7 @@ subtitle:
 tags: [logistics]
 ---
 
-I should've deleted it, but I don't want to lose it, so I'll just keep it here. It's the cool technical stuff from the template owner.  - notes from Tian
+Following is written by the template owner, I am keeping it for later technical reference. - Tian
 
 --
 
