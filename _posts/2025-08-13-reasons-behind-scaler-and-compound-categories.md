@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Reasons Behind Scaler and Compound Categories
-subtitle: From an Indexical Point of View
-tags: [music]
+subtitle: 
+tags: [CS]
 ---
 In computer science, data can be broken down into atoms. For some atoms, a sequential stacking is still a meaningful piece of data, and for others not. That’s the basis of categorizing data into scaler and compound types. 
 
