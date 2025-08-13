@@ -10,7 +10,7 @@ The reason behind this difference is whether position/index carries information.
 
 In this scenario, you can say that there are one banana, two apples, and one jar of peanut butter. Or you can say there are two apples, one banana, and one jar of peanut butter. Or one jar, two apples and one banana. This is the archetype of a compound type of data. 
 
-But some compound type also carry positional information, but it is assigned instead of innate. For example, elements in a tuple are indexed, but the indices are artifical and can be changed according to demands. I can label my banana as 0, apples as 1, peanut butter as 2 when I want to arrange them in this fashion, but when I am in the mood of prioritizing peanut butter, I can make peanut butter 0 for the next grocery shopping. 
+But some compound type also carry positional information, but it is assigned instead of innate. For example, elements in a tuple are indexed, but the indices are artifical and can be changed according to demands (by creating a new tuple). I can label my banana as 0, apples as 1, peanut butter as 2 when I want to arrange them in this fashion, but when I am in the mood of prioritizing peanut butter, I can make peanut butter 0 for the next grocery shopping. 
 
 For scalers, the position carries absolute and intrinsic information. Consider a base-10 number, like 53248, the 5 here means 5 x 10^4. Whoever is put at the position of this 5 carries the information of “x 10^4.” And for boolean values, a stacking of two, such as FalseTrue sabotages the structure of True completely, because True/False only allows the position 0, and any indices other than 0 eradicates the whole value. It turns into nothing with stacking. 
 
