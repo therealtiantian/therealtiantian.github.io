@@ -4,7 +4,7 @@ title: Loop and Battle of Authorship
 subtitle: Tatortreiniger S04E04 review
 tags: [film/TV, CS]
 ---
-“-Ich glaube nicht Flucht-magie.” “-Leider glaubt der Flucht an Sie.”
+“-Ich glaube nicht Fluch-magie.” “-Leider glaubt der Fluch an Sie.”
                   - *The Curse* / *Der Fluch*, *Tatortreiniger* S04E04
 
 This is my favorate episode of German TV so far. I enjoyed quite a few episodes from *Tatortreiniger*, but this one is an all time Liblingsfolge.
