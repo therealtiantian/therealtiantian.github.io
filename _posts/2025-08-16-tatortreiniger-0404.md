@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Conditional Loop and Battle of Authorship in Tatortreiniger S04E04
-subtitle: 
+title: Loop and Battle of Authorship 
+subtitle: Tatortreiniger S04E04 review
 tags: [film/TV, CS]
 ---
 “-Ich glaube nicht Flucht-magie.” “-Leider glaubt der Flucht an Sie.”
