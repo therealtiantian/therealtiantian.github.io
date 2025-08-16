@@ -17,7 +17,9 @@ from datetime import datetime
 
 ```python
 start_time = datetime.now( )
-for (a, b) in convo: #(a, b) is a pair of sentence, and convo is a list of tuples
+for (a, b) in convo: 
+# (a, b) is a pair of sentence
+# convo is a list of ordered pairs
 	if a.rhyme != b.rhyme:
 	later_time = datetime.now( )
 	datetime.now = start_time
