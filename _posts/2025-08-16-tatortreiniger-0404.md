@@ -13,9 +13,8 @@ Schotty is a crime scene cleaner employed by a third party company Lausen that p
 
 The pseudo code for this curse goes like this:
 
-from datetime import datetime
-
 ```python
+from datetime import datetime
 start_time = datetime.now( )
 for (a, b) in convo: 
 # (a, b) is a pair of sentence
