@@ -7,7 +7,7 @@ tags: [film/TV, CS]
 “-Ich glaube nicht Flucht-magie.” “-Leider glaubt der Flucht an Sie.”
                   - *The Curse* / *Der Fluch*, *Tatortreiniger* S04E04
 
-This is my favorate episode of German TV so far. I enjoyed quite a few episodes from Tatortreiniger, but this one is an all time Liblingsfolge.
+This is my favorate episode of German TV so far. I enjoyed quite a few episodes from *Tatortreiniger*, but this one is an all time Liblingsfolge.
 
 Schotty is a crime scene cleaner employed by a third party company Lausen that provides this kind of niche service to the police. In this episode he is sent to a generational mansion owned by an heir of a wanna-be “rhymer,” who killed himself in the property due to the lack of recognition  by the public of his self-claimed poetic talent. Before death, he cursed the house with a loop to go back to the beginning of an event if rhyme schemes were broken during conversation. The vessel of the curse is the curser’s suicidal blood seeped into the wooden floor, resisting all possible ways of normal cleaning for over 200 years, which is why the heir hires Lausen GMBH to clean the blood and break the curse.
 
@@ -15,12 +15,14 @@ The pseudo code for this curse goes like this:
 
 from datetime import datetime
 
+```python
 start_time = datetime.now( )
 for (a, b) in convo: #(a, b) is a pair of sentence, and convo is a list of tuples
 	if a.rhyme != b.rhyme:
 	later_time = datetime.now( )
 	datetime.now = start_time
 
+```
 This code is reductive, demonstrative and doesn’t hold for the actual situation, because the conversation unfolds through time and the real code should capture the conversation’s incremental property. Besides, in the real coding scenario, it’s not legal to reset the current time through the method aforementioned. 
 
 Back to the show. The interesting property of the curse is that the characters’ epistemic statuses are not reset with a new loop, making possible for Schotty to learn the situation with trial and error. He is thrown back to the beginning of the project once and again, but heuristically accepts the reality as physical instead of psychological. 
