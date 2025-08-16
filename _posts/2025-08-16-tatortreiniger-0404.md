@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conditional Loops and Battle of Authorship in Tatortreiniger S04E04
+title: Conditional Loop and Battle of Authorship in Tatortreiniger S04E04
 subtitle: 
 tags: [film/TV, CS]
 ---
