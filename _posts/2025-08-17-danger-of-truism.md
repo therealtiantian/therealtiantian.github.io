@@ -4,7 +4,7 @@ title: Danger of Truism
 subtitle: Some reflection on parenting pitfalls
 tags: [rambling]
 ---
-Everybody is haunted by some kind of childhood trauma, and so do I. I don’t want to elaborate that pain, but today I want to talk about it in an objective way.
+Everybody is haunted by some kind of childhood trauma, and so do I. I don’t want to elaborate that pain, but today I want to talk about it in an objective way. (I definitely don't consider myself as traumatized. In fact, I gained a lot of resillience and analytical ability from the experience. )
 
 My parents had two pedagogical ideas. They both wanted me to be well-educated. My dad wanted me to be educated as a good person, but my mom wanted me educated as a good woman. 
 
