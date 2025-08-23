@@ -20,7 +20,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "IMDB"
-   absolute-link: "https://www.imdb.com/user/ur133207107/reviews/?ref_=up_ururv_sm"
  - name: "Portfolio"
    link: "/assets/portfolio.pdf"
