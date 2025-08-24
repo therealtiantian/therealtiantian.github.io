@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conjunction as Logical Operators
+title: Conjunctions as Logical Operators
 subtitle: Some thoughts when learning German
 tags: [semantics, logic, German]
 ---
