@@ -2,7 +2,7 @@
 layout: post
 title: Conjunctions as Logical Operators
 subtitle: Some thoughts when learning German
-tags: [semantics, logic, German]
+tags: [semantics, logics, German]
 ---
 I was learning several German conjunctions, and wanted to figure out what they mean exactly. They share some behaviors with logical operators, so I did a couple sketches with the neuron model. 
 
