@@ -25,7 +25,7 @@ Compare that with another method:
 ```python
 
 num = '1001'
-b = int(num)
+a = int(num)
 
 ```
 The above method casts the string to another type, namely integer. the function `int( )` does not capitalize the first letter, and this is a function that *alters*, instead of *creates*. This is analogous to human being’s behavior in the real world, changing matters so that they appear as a different texture (imagine a chemist putting matters together for another matter out of reaction). But the capitalized instantiation function is analogous to God’s creation *ex nihilo*. 
