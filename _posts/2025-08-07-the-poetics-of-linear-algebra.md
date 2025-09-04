@@ -2,7 +2,7 @@
 layout: post
 title: The Poetics of Linear Algebra
 subtitle: 
-tags: [maths]
+tags: [maths, aesthetics]
 ---
 Linear algebra is a way of seeing numbers with higher dimentions of information. Consider a ruler: it reveals number in a linear manner, thus giving us a measurement that can be approached with one consistent and indisputable method, universally true in this world. Lines have this kind of very interesting property: the measurement is so easily available that even streching a thread would work. Linear algebra thus conviniently use lines as its measurement for more dimentions: adding a perpendicular line to the one at hand, and then another perpendicular one to the plane. Thus, we have a way of speaking about dots authoritatively in a space, the space that we live in and can thus touch, feel, and imagine. 
 

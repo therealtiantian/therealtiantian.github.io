@@ -2,7 +2,7 @@
 layout: post
 title: The Consequence of Speech Act
 subtitle: J. L. Austin, John Searle, and creatio ex nihilo
-tags: [linguistics, CS]
+tags: [linguistics, CS, philosophy]
 ---
 The speech act theory proposed by J. L. Austin and developed by John Searle has a profound correlation with computer science language. According to Searle, a lot of things are done through words and words only, which originates from the Christian idea of “the Word is God” (*καὶ θεὸς ἦν ὁ λόγος*). God creates with words, (simultaneously *being* the words Himself,) but human beings do not have the ability to create *ex nihilo*, so they have to be content with *altering* the world with words. Actions like marriage, war-declaration, promise-making are all completed with words. 
 

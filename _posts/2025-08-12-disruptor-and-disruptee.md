@@ -2,7 +2,7 @@
 layout: post
 title: Disruptor and Disruptee
 subtitle: 
-tags: [music]
+tags: [music, aesthetics]
 ---
 Like all forms of art, music can be purposeful. Due to its accessibility, music influences its listeners in subtler ways than others. Listening is a passive action, compared to reading and looking at other serious stuff. If you think about the verb “listen,” it doesn’t require huge effort from the listener, unless the sound being listened to is hard to differentiate from the environment. For this reason, the power rests at the player, who executes the action and assert an influence onto the people within the field of the audio wave. 
 

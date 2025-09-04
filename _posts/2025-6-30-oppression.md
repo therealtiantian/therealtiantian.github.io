@@ -2,7 +2,7 @@
 layout: post
 title: "The Right Level of Oppression"
 subtitle: 
-tags: [Rambling]
+tags: [prose]
 ---
 I was watching a snippet of zizek’s comment on cinema today for a sheer lack of passion in reading anything serious. He caught me with these words, “the right level of oppressions.” In this snippet, he spoke about something I ponder all the time about great art. 
 

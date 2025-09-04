@@ -2,7 +2,7 @@
 layout: post
 title: The Active and the Pensive
 subtitle: 
-tags: [rambling]
+tags: [prose]
 ---
 I’ve been fidgeting with coding a lot, which is unexpected, considering that I applied for this master’s program aiming to enhace my writting skills. But I started to get tired of rhetorics at some point, especially when I have a professional responsibility to read novels, poems and philosophy essays. But I don’t mean I don’t like them anymore, but the idea of “thinking as a way of living” makes me uncomfortable. I guess there is a part in me that is very Chinese, who values secular life and the sanctity of action. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Danger of Truism 
 subtitle: Some reflection on parenting pitfalls
-tags: [rambling]
+tags: [prose]
 ---
 Everybody is haunted by some kind of childhood trauma, and so do I. I don’t want to elaborate that pain, but today I want to talk about it in an objective way. However, I definitely don't consider myself as traumatized. In fact, I gained a lot of resillience and analytical ability from the experience. 
 
