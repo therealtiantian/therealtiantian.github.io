@@ -2,7 +2,7 @@
 layout: post
 title: Autumn Nakedness
 subtitle: 
-tags: [prose]
+tags: [novella]
 ---
 
 I saw two naked people through the windows. 

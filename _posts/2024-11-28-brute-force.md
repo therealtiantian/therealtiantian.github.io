@@ -2,7 +2,7 @@
 layout: post
 title: Brute Force
 subtitle: 
-tags: [Novella]
+tags: [novella]
 ---
 Dad’s childhood house has just been decided to be demolished. These kinds of decisions are always acted upon the objects they found interesting, upon the people who seem to possess these objects. 
 
