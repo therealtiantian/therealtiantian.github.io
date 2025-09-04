@@ -2,7 +2,7 @@
 layout: post
 title: The Holy Object
 subtitle: 
-tags: [CS, python, OOP]
+tags: [CS, python, OOP, philosophy]
 ---
 An abstraction of an entity E is itself another entity e that reveals only those characteristics of E considered relevant in some context while suppressing other characteristics deemed irrelevant (in that context). —Subrata Dasgupta
 
