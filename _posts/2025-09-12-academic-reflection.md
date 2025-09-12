@@ -6,7 +6,7 @@ tags: [reflection]
 ---
 I didn’t go through the traditional academic route, which is basically a highway from bachelor to PhD. My bachelor years were spent with a lot of rebellion and exploration. I did work very hard during those years to consolidate my language skills, that is, pragmatics. I believed that language is dead unless it is used, so I didn’t put much effort on consolidating the knowledge on linguistics, instead I put a lot of effort in observing language and using language. 
 
-Fast forward to my bachelor’s graduation, I still chose the pragmatic path. I started working headlong in communication industry, and later media publication. I still heavily focued on how to effectively use language and act with language. 
+Fast forward to my bachelor’s graduation, I still chose the pragmatic path. I started working headlong in communication industry, and later media publication. I still heavily focued on how to effectively use language and make actions with language. 
 
 After multiple years of that, now I am back to University with a genuine interest in language itself, that is linguistics. Now I am struggling to get rid of the habits that I accumulated from my Bachelors all the way to my industry experience, which hinders my linguistic research. I need to transition myself from using language to observing it and analysing it. And I do need to change myself a lot in order to do it. 
 
