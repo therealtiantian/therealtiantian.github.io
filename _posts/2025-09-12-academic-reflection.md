@@ -4,7 +4,7 @@ title: Self-Reflection on my Academic Work Flow
 subtitle: basically, what I've been doing wrong
 tags: [reflection]
 ---
-I didn’t go through the traditional academic route, which is basically a highway from bachelor to PhD. My bachelor years were spent with a lot of rebellion, exploration and, of course, relationship. I did work very hard during those years to consolidate my language skills, that is, pragmatics. I believed that language is dead unless it is used, so I didn’t put much effort on consolidating the knowledge on linguistics, instead I put a lot of effort in observing language and using language. 
+I didn’t go through the traditional academic route, which is basically a highway from bachelor to PhD. My bachelor years were spent with a lot of rebellion and exploration. I did work very hard during those years to consolidate my language skills, that is, pragmatics. I believed that language is dead unless it is used, so I didn’t put much effort on consolidating the knowledge on linguistics, instead I put a lot of effort in observing language and using language. 
 
 Fast forward to my bachelor’s graduation, I still chose the pragmatic path. I started working headlong in communication industry, and later media publication. I still heavily focued on how to effectively use language and act with language. 
 
