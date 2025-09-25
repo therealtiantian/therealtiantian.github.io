@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding with Gute Laune
+title: Coding mit Guter Laune
 subtitle: 
 tags: [reflection]
 ---
