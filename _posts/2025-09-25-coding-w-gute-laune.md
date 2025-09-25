@@ -2,7 +2,7 @@
 layout: post
 title: Coding with Guter Laune
 subtitle: 
-tags: [reflection]
+tags: [reflection, CS]
 ---
 I kinda got stuck in my project, and I wonder why. Normally I am pretty steadfast in hands-on projects, and I find it more fun to do/write than to read. But I have some habits that drags down my process.
 
