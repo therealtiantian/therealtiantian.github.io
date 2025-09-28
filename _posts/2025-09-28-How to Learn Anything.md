@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantitative Dilemma
+title: How to Learn Anything
 subtitle: 
 tags: [methodology, academics]
 ---
