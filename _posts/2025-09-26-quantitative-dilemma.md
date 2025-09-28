@@ -2,7 +2,7 @@
 layout: post
 title: How to Learn Anything
 subtitle: 
-tags: [rambling]
+tags: [rambling, methodology]
 ---
 Yeh, 6 am, stuck with my paper again. I get the feeling that there is something wrong with my scheme, but I cannot pin it down. I also don’t think anyone can give me an answer, because eventually, what I write is about what I believe is true, with sufficient evidence, of course.
 
