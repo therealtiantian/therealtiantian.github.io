@@ -5,9 +5,16 @@ subtitle: Published on Poetry Lab Shanghai
 tags: [poem]
 ---
 [Link](https://www.poetrylabshanghai.com/post/summer25) from Poetry Lab Shanghai
+
 [Chinese Audio](https://m.ximalaya.com/sound/881037898?from=pc) read by Tian Tian
+
 [English Audio](https://m.ximalaya.com/sound/881037892?from=pc) read by Tian Tian
 
+<blockquote class="instagram-media" 
+    data-instgrm-permalink="https://www.instagram.com/p/DOFpDeKjNyk/"
+    data-instgrm-version="14">
+</blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
 
 新世纪之歌
 
