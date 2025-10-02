@@ -4,7 +4,7 @@ title: Parasitic Chandelier
 subtitle: 
 tags: [poem]
 ---
-WThe slime uneasiness sucks on the corner of the celling,
+The slime uneasiness sucks on the corner of the celling,\n
 Where flakes fall.
 It wins over gravity, hedged by reality, 
 granted permission by a nasty ego, 
