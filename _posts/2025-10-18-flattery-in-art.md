@@ -1,0 +1,13 @@
+---
+layout: post
+title: Flattery In Art
+subtitle: 
+tags: [music, art, critique]
+---
+Flattery is blasphemous in art. This eventually is due to art’s claim of being impractical. A lot of crafts can be beautiful. Sometimes I cannot take my eyes from a piece of chair that is carved and upholstered with such mastery that it gives me equal amount of pleasure as listening to a piece of music composed by Bach. But that chair is like Cinderilla before midnight. As long as someone sits on it and enjoys it for its functionality, people from the field of art are immediately reminded of their responsibility of safeguarding the artistic world from any impurity that brings function inside. The chair is out. It now belongs to the field of crafts. 
+
+Thus people are against flattery. Flattery means function. It caters to some psychological needs of human beings. Each piece of music with flattery understands its audience, and tries to provide a service to them. That composer must bear in mind that they do not create for the sake of expression, but for the sake of temporarily altering someone’s psychological wire, be it for the better or for the worse. Thus the realm of flattery contains both pleasant and unpleasant music. When a piece of music is made with the ambition of irritating, shoking, provoking, or disgusting, that is also flattery. It caters to people’s need for being harmlessly abused. Thrills often come from this. Think rollercoaster. Think bungee jumping. Think thriller films. 
+
+Inevitably, I listen to music both with and without flattery. Psychological needs are just as important as physical needs, just like looking for a chair when one is tired. In fact, I argue even the  kind of music with the ultimate absense of flattery still contains a little of it, because otherwise it would possibly fall into the category of sound or noise. Eventually, art moves people by a special trick, which only takes effect when the listener is psychologically influenced. Otherwise, that piece of art would equal to a piece of mundanity, namely objects that do not attract people’s focalisation and exists for nothing. Like a piece of stone that has not piqued anyone’s interest for its whole existence. 
+
+The bad kind of flattery is with dishonesty and wiles. It takes advantage of the psychological needs and get people addicted to the artwork with a promise of sympathy. It does not provide any resolution, but only ingratiates and agrees with the audience’s most melancholy self. It does not dare to give an opinion with argument. It is like the kind of AI tonality that people complain about: it repeats what the user says, agrees with it, and frames it to make a one-man talk look like a conversation. 
