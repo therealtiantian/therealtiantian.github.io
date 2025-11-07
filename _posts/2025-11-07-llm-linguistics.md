@@ -2,7 +2,7 @@
 layout: post
 title: 2 Cents on LLM for Linguistic Research
 subtitle: 
-tags: [prose]
+tags: [NLP, LLM, linguistics]
 ---
 As is known to some of my best friends whom I haunted for multiple months to discuss my ideas, I used LLM for my last semantic project instead of word2vec, which was my initial plan. After that I started to have very negative opinion about LLM on multiple fronts. 
 
