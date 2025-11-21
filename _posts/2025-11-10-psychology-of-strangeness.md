@@ -2,7 +2,7 @@
 layout: post
 title: The Psychology of Strangeness
 subtitle: 
-tags: [Language, German, Culture]
+tags: [language, German, culture]
 ---
 I did not go all in learning German during the first two years in Switzerland. Starting this September, I started to learn it consistently and after two months I can now understand everything within my everyday eyesight. 
 
