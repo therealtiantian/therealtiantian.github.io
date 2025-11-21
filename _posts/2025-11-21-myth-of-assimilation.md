@@ -1,0 +1,17 @@
+---
+layout: post
+title: The Myth of Assimilation
+subtitle: 
+tags: [culture]
+---
+After two years of adapting, I am very comfortable living in Switzerland. I think as long as a foreigner looses the consciousness of themselves being foreign, they immediately fit in. It does not even matter if she speaks the local language or behave in the same manner as locals. 
+
+The concept of integration creates a myth that a foreigner has to behave exactly like the majority, without which they would be outcasts forever. Or the reverse, that she has to “proudly” show her cultural distinction and draw others’ attention to a neglected way of being. Neither of them is gonna make the situation better. People are born different, no matter how close geographically they are born. I am already very different from my dad’s best friend’s kid, then how does it make sense for me to be the same to someone born in another country? But difference is not what I would want to discuss here, instead, there are commenalities among all people besides differences, despite our drastically different upbringings. 
+
+I realised that even before living abroad. My favorite books have always been written in countries and languages other than my own, which made me wonder how is it even possible for a Chinese person, who has never been to the west, to be moved by Hamlet, Odessy or Oedipus, to the same level that I was moved by the Chinese classics, or even more so. I had read Hamlet many times before doing my master’s in Switzerland and was properly enrolled in a Shakespeare seminar. In the seminar, I realised what my Chinese friends and I had discussed the most in China was not one of the most discussed ones in the west. Nonetheless, it had never made us enjoy Hamlet less. The reason behind it is that in translating into Chinese, the Hamlet text creates slightly different denotations and vastly different connotations. 
+
+But still, we enjoy Hamlet. I almost hesitate to write “vastly different” because zooming out, it is still a triviality. The Chinese literature shares a lot of the Shakespearean motifs, because they are both distilled from the greatness and weakness of human beings. Surely there are differences, in fact they do not look the same at all. But focusing only on the differences is just as stupid as focusing only on the sameness. 
+
+In this sense, I am probably labeled as a “liberal humanist” among all the ists and isms. But just as everybody else, I am not eager to be labeled, if not strictly necessary. I care about differences as well, especially when the situation does not naturally evokes comparison. Each individual is different, even in a society with homogenous race and ideology. People also have a lot in common, if put into a larger scale, compared with stones, water, or imaginative aliens. That is why people can to some extent understand each other, because we can put ourselves into others’ situation and imagine our emotion and reaction. 
+
+Eventually, what I wanted to say is that I do not remember I am a foreigner most of the time, even though I still have very different daily experience in the society from my local friends. But I am comfortable and have very pleasant experience, and I am able to use my time and talent in something very, very pleasant, too. 

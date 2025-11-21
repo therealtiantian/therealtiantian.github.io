@@ -4,7 +4,7 @@ title: The Craft and Art of Mannual Labour
 subtitle: 
 tags: [body, philosophy]
 ---
-I am obsessed with manual workers. Making something with mere hands is a magical concept. Mostly, when we make something happen, we say it in the context of abstract matters. For example, I overcome my difficulty of not knowing, and achieve the result of acquiring that particular knowledge. That make-do does not involve actual hands. Or I resolve the misunderstanding in a relationship. That action is inherently mental and verbal. 
+I am obsessed with manual work. Making something with mere hands is a magical concept. Mostly, when we make something happen, we say it in the context of abstract matters. For example, I overcome my difficulty of not knowing, and achieve the result of acquiring that particular knowledge. That make-do does not involve actual hands. Or I resolve the misunderstanding in a relationship. That action is inherently mental and verbal. 
 
 But mannual work is using the body as a tool. Being born into this physical existance, we constantly try to create new ways of using it. We create new dances, sports, and we use our hands in different combinations of movements to make a change to another physical object. That kind of action has a memory encoded into the object that is altered due to our intentional manueuver. 
 
