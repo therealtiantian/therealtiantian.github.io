@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Hippie Year in Yunnan
+title: My Hippie Year in Yunnan
 subtitle: 
 tags: [novella]
 ---
