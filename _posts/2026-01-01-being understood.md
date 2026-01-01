@@ -14,6 +14,6 @@ I enjoy being understood, of course. I enjoy understanding others, too. But that
 
 Understanding is almost addictive. Once one has had that understanding, it is cruel to take that away. It is even better if one has never had that understanding. The premise of true understanding is that the other person has gone through some similar toil, or at least painful of a similar level. Then you know that understanding is genuine, instead of politeness or hypocricy. Sympathy without understanding is almost an insult. That is called pity and no one wants that. 
 
-When Desdemona declares her love for Othello, she says she loves him for his suffering. That is probably my favorate line of Shakespeare. I do not really trust unsuffered souls for a confession of any sort, because that almost guarantees the superficiality of understanding. 
+When Desdemona declares her love for Othello, she says she loves him for his suffering. That is probably my favorate line of Shakespeare. I do not really trust unsuffered souls to share a confession of any sort, because that almost guarantees the superficiality of understanding. 
 
 I had a conversation with my dad today and he said something quite nice. "Human beings are a complex phenomenon." That is absolutely right. If someone breaks into that complex and manages to understand just a little bit, it would be a great feat. 
