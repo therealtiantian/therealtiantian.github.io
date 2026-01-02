@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Problem with Psychology
+title: The Danger of the Psychology Discipline
 subtitle: 
 tags: [prose]
 ---
