@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Danger of the Psychology Discipline
+title: The Danger of Popular Psychology
 subtitle: 
 tags: [prose]
 ---
