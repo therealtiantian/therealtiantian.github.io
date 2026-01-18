@@ -3,7 +3,6 @@ layout: default
 title: About Me
 ---
 
-
 I'm Tian Tian, and this is my personal website. After graduating from Hunan University in 2016, I started working as a PR specialist at burson Marsteller and Edelman. Then I shifted my career and became a magazine writer and editor due to my curiosity in culture, and especially music. My articles were published on *GQ* (and *GQ Lab*), *Vogue*, *Modern Weekly*, *Tatler*, *[RADII](https://radii.co/author/tian-tian)*, *Man About Town*, etc. Generally, I have a penchant for language and language products, so now I am doing a master's program in English literature, linguistics and Digital Humanities at the University of Basel in Switzerland. 
 
 I also have a blog account "Karottenfruchtladen" on Wechat Public Platform, feel free to find me there. 
