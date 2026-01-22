@@ -2,7 +2,7 @@
 layout: post
 title: Quick Thoughts
 subtitle: On learning, linguistics, social science, housework, and salt
-tags: [miscellaneous]
+tags: [listicle]
 ---
 1. Reading primary texts is much easier than reading secondary ones or even attending lectures thereof. Pleasure is greater. The important scholars are often good writers, too. Reading De Saussure’s lecture transcrips this week gave me great pleasure. 
 
