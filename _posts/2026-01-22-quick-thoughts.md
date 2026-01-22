@@ -10,7 +10,7 @@ tags: [listicle]
 
 3. Recently got to know a scholar who has both science and social science background (a Chinese one). Started his second PhD in sociology at 40. There are still extremely talented people who believe knowledge in human beings is worthy. At least as important as natural sciences, as is the case of all times.
 
-4. Seems sociology is an umbrella discipline of linguistics, law, politics, history, psychology, etc? Have the feeling that linguistics, taken out of society, is quite an empty pursuit. (Like analysing a chess game just to understand the game, to borrow De Saussure’s analogy, for my laziness of coming up a new one.)
+4. Seems sociology is an umbrella discipline of linguistics, law, politics, history, psychology, etc? Have the feeling that linguistics, taken out of society, is quite an empty pursuit. (Like analysing a chess game just to understand the game, to borrow De Saussure’s analogy, for my laziness of coming up with a new one.)
 
 5. What is the point of crafting a system for the researcher’s own pleasure, if that system is not even artificial, as in math? If there is no system, what is the point of forging one?
 
