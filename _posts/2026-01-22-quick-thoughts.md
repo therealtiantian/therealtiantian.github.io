@@ -12,7 +12,7 @@ tags: [listicle]
 
 4. Seems sociology is an umbrella discipline of linguistics, law, politics, history, psychology, etc? Have the feeling that linguistics, taken out of society, is quite an empty pursuit. (Like analysing a chess game just to understand the game, to borrow De Saussure’s analogy, for my laziness of coming up with a new one.)
 
-5. What is the point of crafting a system for the researcher’s own pleasure, if that system is not even artificial, as in math? If there is no system, what is the point of forging one?
+5. What is the point of crafting a system for the researcher’s own pleasure, if that system is not even artificial, as in math? If there is no system out there, what is the point of forging one?
 
 6. Got a bit annoyed recently by the sheer amount of time needed to cook 3 meals per day. Realised my mom’s huge effort in raising me when my dad was absent. (Not a master cook, but she managed to give me an extremely healthy diet/diet habit.) Should start to appreciate how much she has done. 
 
