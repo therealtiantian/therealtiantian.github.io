@@ -20,7 +20,7 @@ tags: [listicle]
 
 8. Can not think of a routine with minimal maintenance as long as cooking is involved. Cooking is a complex matter to be added into one’s life. 
 
-9. But without cooking and housework, it’s easy to forget what it is to be a human. A human is a eating, sleeping, thinking, talking being. She needs constant maintenance to counter entropy. Everyone has the tendency to be a mess. To cancel that one needs to work. 
+9. But without cooking and housework, it’s easy to forget what it is to be a human. A human is a eating, sleeping, thinking, talking, doing being. She needs constant maintenance to counter entropy. Everyone has the tendency to be a mess. To cancel that one needs to work. 
 
 10. Rock music reminds me that I am a chaos. Classical music reminds me that I look forward to Ordnung. 
 
