@@ -1,0 +1,13 @@
+---
+layout: post
+title: Phonology of Mandarin vs Germanic languages
+subtitle: 
+tags: [linguistics]
+---
+The phonological composition of a Mandarin character (a morpheme) is always consonant + vowel. Sometimes the vowel is a dipthong or followed by a nasal, but the vowel is dominant in the second part. One can argue that nasals are also closures of the vocal tract, but compared to hardcore closures like consonants, nasal ends are kinda vague. Kinda like giving a slight base note to a morpheme, like perfume. 
+
+That’s why mandarin speech has a natural rhythem even without stress. English has a rhythem pattern with adding stress and volume to certain syllables to create a musical quality, but Mandarin naturally has that already. You don’t have to speak Mandarin to imitate mandarin. Imagin yourself speaking in the manner with consonants and vowels interlaced. (The result might sound racist, so better not do it to an unfamiliar crowd. I find it quite amusing myself though.) For example: wo zai xie zuo, ni zai gan ma, chi le ma, tian qi hao, mei wen ti, cha bu duo. These are legit Mandarin sentences, but if you get the trick, you can easily produce Mandarin-like gibberish. Imagine your self alternatively block the air (for consonants) and let the air go (for the vowel-ish ending), then there you go. Of course, there are also tones to the morphemes and that’s tricky, but the tones are assigned randomly, so if you wanna imitate more vividly, you can just choose some tones you find good and assign them to your will. The four common tones are also easy to understand. Imagine yourself singing. Some melodies go straight up, some straight down, some flat, some down and then up. They are the four tones. Just speak each morpheme with one of the four melodies, then you are done. wǒ zài xǐe zuò, nǐ zài gàn má, chī lè mā, tiān qì hǎo, again, they are the legit mandarin sentences. The hats on top of the morphemes shows the melody. 
+
+But yeh, that’s really socially dangerous, but you get what I mean. (Joke disclaimer.)
+
+Anyways, as for English or German, there isn’t such regularity. For example, hältst in German has four consonants (“l” also has some consonant quality) in a row. This is what the Mandarin or Chinese speakers look at in awe. When I started to learn English as a kid, I often find my mouth not functioning because I wasn’t trained to block air at such a fast speed. English is less daunting in this respect, but still, many endings like “amongst”, “thanks” already leave the Mandarin speakers speechless. For a typical Mandarin speaker with an accent, they always add vowels to each of the consonants: “thanke si”, “amongsi te”. That is why. 
