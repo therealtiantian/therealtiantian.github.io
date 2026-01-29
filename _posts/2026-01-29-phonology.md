@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Phonology of Mandarin vs Germanic languages
-subtitle: 
+title: How to Produce Mandarin Gibberish
+subtitle: Phonology of Mandarin vs Germanic languages
 tags: [linguistics]
 ---
 The phonological composition of a Mandarin character (a morpheme) is always consonant + vowel. Sometimes the vowel is a dipthong or followed by a nasal, but the vowel is dominant in the second part. One can argue that nasals are also closures of the vocal tract, but compared to hardcore closures like consonants, nasal ends are kinda vague. Kinda like giving a slight base note to a morpheme, like perfume. 
