@@ -4,7 +4,7 @@ title: Suffering
 subtitle: 
 tags: [prose]
 ---
-I did not expect myself to ponder on this topic, because I kinda forbode myself to, I mean, my own suffering. I feel petty for looking at myself. But some circumstance rises, which force me to realise human suffering is so pointlessly painful. 
+I did not expect myself to ponder on this topic, because I kinda forbade myself to, I mean, my own suffering. I feel petty for looking at myself. But some circumstance rises, which force me to realise human suffering is so pointlessly painful. 
 
 Many reasons can make one miserable. The social climate one lives in, the decisions made against one’s will, and one of the worst, family members misbehave. The last one is arguably the most traumatising. Someone once said, one’s wellbeing is probably more affected by one’s closest family members than by a president. That is debatable, but there is some wisdom in it. 
 
