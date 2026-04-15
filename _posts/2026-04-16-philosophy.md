@@ -2,7 +2,7 @@
 layout: post
 title: Philosophy and Linguistics
 subtitle: 
-tags: [academia]
+tags: [philosophy, linguistics, academia]
 ---
 Can’t really fall asleep. Two weeks ago, some emergency broke my regular sleep cycle, and till today, I still struggle to sleep at my usual hour. And each day there’s something on my mind to think about.
 
