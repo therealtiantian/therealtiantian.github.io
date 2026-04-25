@@ -1,0 +1,19 @@
+---
+layout: post
+title: Feminism and its Many Ways
+subtitle: 
+tags: [-isms]
+---
+I almost have never claimed feminism, but am obviously a feminist. Feminism is collective pursuit, and there are many ways to achieve it. Women, if they subscribe to any one of them, are legit feminists. 
+
+Compared to what to say, I am one of those more interested in what to do. By saying, I mean repeatedly saying the ideology of interest so as to help spread the ideas like seeds. 
+
+My approach is to act in the way that people I admire have done, no matter they are men or women, or to act according to my ideal that a great person would have done. In this way, all the ancient wisdom can be used accordingly, without caring too much on the fact that they were at the time addresed solely to males. 
+
+But I do not think I need to advocate my way in particular, or try to influence other feminists to be closer to my approach. How I make my choice is subject to my strength, experience, and personality. If I were to be an activist, I would also not be able to do a good job. 
+
+There are direct and indirect ways to elevate the status of a group. Some are better in short term, some long term. Identity politics is the short one. It is effective, sensational. But in the long run, the world needs more intellectual, powerful, witty, or simply wealthy women. This is the difficult truth: with pity one can not collect sustainable political benefits. 
+
+Some women achieve success with the female manner, charming, elegant, attractive. Some the neutral manner, efficient, decisive, reliable. Neither is bad. I choose the latter, again, only because of my strength and weakness. 
+
+I start to appreciate more and more the women who do the work that I am not able to do, and in the end, I can ride on the benefits that they have gained. But in return, I am also doing something that someone else might not be able to do, and then I would return them the favor. It really is a Zusammenarbeit. 
