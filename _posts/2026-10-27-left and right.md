@@ -14,7 +14,7 @@ Mao is still cherished by many, and many within the country too. However, they a
 
 The right, however, are those who think there’s some goodness with the tradition, and something iffy with what is new. But as is also the case with the leftists, they don’t always agree on where the wrongs are. Some think that’s immigration, some technology, some the loss of religion. They also have different intensities with their beliefs, which now is called how “extreme” they are. 
 
-The left, too, do not agree with each other on what the changes should be, but are thought of a complete whole. That introduces the interesting phenomenon that leftism seems like a giant packadge, and whoever is feminist is gotta be a vegan, a socialist, a pro-immigration fighter, and so on. So is the case with the right. 
+The left, too, do not agree with each other on what the changes should be, but are thought of a complete whole. That introduces the interesting phenomenon that leftism seems like a giant packadge, and whoever is feminist is also gotta be a vegan, a socialist, a pro-immigration fighter, and so on. So is the case with the right. 
 
 The minority ethinicities in a society are often placed, by those who are not themselves, as on the left. Eventually, they seem to be the target of some of the rightwings. However, many of those who go to another country appreciate its social order, which is why they go there in the first place. That certainly does not mean they think it is a perfect order or even a good one, but there is something that they think is important, which is lacking in where they come from. 
 
