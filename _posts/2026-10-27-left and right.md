@@ -6,7 +6,7 @@ tags: [Ramble]
 ---
 If you think about the origin of this mess, it’s simply the seat allocation after the french revolution, when those who would like a completely new order sit on the left and those who want to keep a selection of the old structure on the right. Now obviously people fight over left or right with each one’s own imagination of their meanings.
 
-Left, nowadays, still means progressive, but overtime what needs to be changed is what defines leftism differently. There used to be a time when economy is what the leftists want to change the most, to make material distribution fairer. Now the leftism changes the battelfield to the head, the concepts. They think what keeps the society from being a good one is mostly in the thoughts. To correct it one has to remake the language, since thoughts are out of control. 
+Left, nowadays, still means progressive, but overtime what "needs to be changed" is what defines leftism differently. There used to be a time when economy is what the leftists want to change the most, to make material distribution fairer. Now the leftism changes the battelfield to the head, the concepts. They think what keeps the society from being a good one is mostly in the thoughts. To correct it one has to remake the language, since thoughts are out of control. 
 
 Both of these, the great butcher and theorist, beloved Chairman Mao has tried out for us. And actually, both are correct. If the sacrifice is not taken into account, it is not a bad idea to implement policies to correct both our belongings and brains. But if you take sacrifice into it, you are gonna be haunted by nightmares until the end of the universe. 
 
