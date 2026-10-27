@@ -24,4 +24,4 @@ In the west, it is socially obligatory to give an opinion, even on matters one d
 
 What needs to change? What should remain? Does a completely new order lead us to the new age? Or is that actually an annihilation? 
 
-My friend Yizhen ones said, it is impossible to solve all of human beings’ problems (人的问题是解决不了的). It sounds much nicer in Mandarin.
+My friend Yizhen ones said, it is impossible to solve all of human beings’ problems (人的问题是解决不了的). It sounds much more poetic in Mandarin.
