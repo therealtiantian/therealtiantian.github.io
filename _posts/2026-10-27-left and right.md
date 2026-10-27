@@ -8,7 +8,7 @@ If you think about the origin of this mess, it’s simply the seat allocation af
 
 Left, nowadays, still means progressive, but overtime what "needs to be changed" is what defines leftism differently. There used to be a time when economy is what the leftists want to change the most, to make material distribution fairer. Now the leftism moves the battelfield to the head, the concepts. They think what keeps the society from being a good one is mostly in the thoughts. To correct it one has to remake the language, since thoughts are out of control. 
 
-Both of these, the great butcher and theorist, beloved Chairman Mao has tried out for us. And actually, both are correct. If the sacrifice is not taken into account, it is not a bad idea to implement policies to correct both our belongings and brains. But if you take sacrifice into it, you are gonna be haunted by nightmares until the end of the universe. 
+Both of these, the great theorist and beloved Chairman Mao has tried out for us. And actually, both are correct. If the sacrifice is not taken into account, it is not a bad idea to implement policies to correct both our belongings and brains. But if you take sacrifice into it, you are gonna be haunted by nightmares until the end of the universe. 
 
 Mao is still cherished by many, and many within the country too. However, they are the offsprings of those who survived. There aren’t any speakers anymore in the graveyards under the ground, unfortunately. Otherwise we would’ve have a more balanced report of the project.
 
